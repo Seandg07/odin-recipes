@@ -23,3 +23,10 @@ body {
     text-align: center;
     font-weight: bold;
 }
+
+img {
+    background-color: bisque;
+    height: auto;
+    width: max-content;
+    text-align: center;
+}
