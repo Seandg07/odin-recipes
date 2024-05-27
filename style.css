@@ -36,4 +36,5 @@ img {
     padding: 8px;
     background-color: antiquewhite;
     margin: 20px auto;
+    box-sizing: border-box;
 }
